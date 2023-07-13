@@ -1,13 +1,17 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+ 
+  font-family: 'MyriadPro', sans-serif;
+  -webkit-font-smoothing: 'MyriadPro';
+  -moz-osx-font-smoothing: 'MyriadPro';
+  
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: 'MyriadPro', sans-serif;
+  height: 100%;
+}
+@font-face {
+  font-family: 'MyriadPro';
+  src: url('../public/font/Myriad\ Pro\ Light.otf') format('opentype');
+  /* Add additional src declarations for different font weights or styles */
 }

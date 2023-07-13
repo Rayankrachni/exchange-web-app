@@ -1,0 +1,20 @@
+.toggle{
+    display: flex;
+    justify-content:space-between;
+    border: 3px solid var(--mainColor);
+    border-radius: 1rem;
+    position: relative;
+    padding: 12px;
+    cursor: pointer;
+
+}
+.toggle>*{
+    width: 1rem;
+    height: 1rem;
+    color: var(--mainColor);
+}
+.t-button{
+    padding: 5px 5px 0px  0px;
+    
+    
+}

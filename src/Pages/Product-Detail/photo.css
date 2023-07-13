@@ -1,0 +1,79 @@
+.photos-wrapper {
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 0.5;
+  text-align: left;
+  width: 100%;
+  display: block;
+  font-family: cairo, Metropolis, sans-serif;
+  color: white;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  justify-content: start;
+  align-items: start;
+  justify-self: start;
+}
+
+.img-wrap-4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  background: white;
+  box-shadow: 0 3px 10px 0 rgba(51, 51, 51, 0.35);
+}
+
+.img-wrap {
+  width: 33%;
+  max-height: 30%;
+  min-height: 100px;
+  cursor: pointer;
+  max-width: max-content;
+  margin: 1px;
+  transition: transform 0.3s; /* Add a transition for smooth effect */
+  
+  /* Define initial state for hover effect */
+  transform: scale(1);
+}
+
+.img-wrap:hover {
+  z-index: 1;
+  border-radius: 5px;
+  transform: scale(1.05); /* Increase scale on hover */
+}
+
+/* Media queries for responsive styles */
+@media (max-width: 1024px) {
+  .img-wrap-4 {
+    justify-content: center;
+  }
+  
+  .img-wrap {
+    width: 32%;
+    max-height: 20%;
+    min-height: 80px;
+  }
+}
+
+
+@media (max-width: 768px) {
+  .img-wrap-4 {
+    justify-content: center;
+  }
+  
+  .img-wrap {
+    width: 32%;
+    max-height: 20%;
+    min-height: 80px;
+  }
+}
+
+@media (max-width: 480px) {
+  .img-wrap {
+    width: 32%;
+    max-height: 20%;
+    min-height: 60px;
+  }
+}

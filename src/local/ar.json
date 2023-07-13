@@ -1,0 +1,47 @@
+{
+    "title": "مرحبًا بك في رياكت ورياكت-آي 18",
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "categories": "الفئات",
+  
+    "see-all":"عرض الكل",
+
+
+    "settings": "الإعدادات",
+    "favorite": "المفضلة",
+    "notification": "الإشعارات",
+    "profile": "الملف الشخصي",
+    "products": "المنتجات",
+    "product-title":"عنوان المنتج",
+    "languages": "اللغات",
+    "darkMode": "الوضع الداكن",
+    "logout": "تسجيل الخروج",
+
+
+    "name":"الاسم",
+    "email":"ايمايل",
+    "phoneNumber": "رقم الهاتف",
+    "password": "كلمة المرور",
+    "Location":"العنوان",
+    "confirme-password": "تأكيد كلمة السر",
+    "confirme-passwordPlaceholder":"يرجى تاكيد كلمة السر",
+    "phoneNumberPlaceholder": "أدخل رقم الهاتف",
+    "passwordPlaceholder": "أدخل كلمة المرور",
+    "rememberMyAccount": "تذكر حسابي",
+
+    "dontHaveAnAccount": "ليس لدسك حساب ؟ ",
+    "or-sign-up": "أو  ",
+
+    "OTPVerification": "التحقق من رمز الotp" ,
+    "OTPVerificationtext": "ادخل رمز التحقق الذي تم ارساله  " ,
+    "to": "الى" ,
+    "confirmation": "التحقق من رمز ",
+    "dont-recieve-msg": "لم يصل رمز التأكيد ؟",
+    "resend": "ارسال",
+    "edit":" تعديل معلومات الحساب",
+    "save":"حفظ",
+    "filter":"التصفية",     
+    "search":"البحث", 
+    "description":"ادخل رمز التحقق الذي تم ارسال ادخل رمز التحقق الذي تم ارسال"
+   }
+  

@@ -1,0 +1,45 @@
+{
+    "title": "title",
+    "login": "Login",
+    "register": "Register",
+    "categories": "Categories",
+    "see-all":"See All",
+
+
+    "settings": "Settings",
+    "favorite": "Favorite",
+    "notification": "Notification",
+    "profile": "Profile",
+    "products": "Products",
+    "product-title":"Products Title",
+    "languages": "Languages",
+    "darkMode": "Dark Mode ",
+    "logout": "Logout",
+
+
+    "name":"Name",
+    "email":"Email",
+    "phoneNumber": "Phone Number",
+    "password": "Password",
+    "Location":"Location",
+    "confirme-password": "Confirm Password",
+    "confirme-passwordPlaceholder":"confirm your password",
+    "phoneNumberPlaceholder": "Enter Your Phone Number",
+    "passwordPlaceholder": " Enter Your Pass word",
+    "rememberMyAccount": "Remember my account ",
+    "dontHaveAnAccount": " Don't have an account ?  ",
+    "or-sign-up": "Or",
+
+    "OTPVerification": "OTP  VERIFICATION" ,
+    "OTPVerificationtext": "Enter  the  code  from  the  SMS   we sent " ,
+    "to": "to" ,
+    "confirmation": "Confirmation",
+    "dont-recieve-msg": "Dont'recieve the code?",
+    "resend": "Resend",
+    "edit":"Edit Your Information",
+    "save":"save",
+    "filter":"Filter",     
+    "search":"Search", 
+    "description":"Remember my account Remember my account"
+  }
+  
